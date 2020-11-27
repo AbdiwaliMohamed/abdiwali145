@@ -84,6 +84,5 @@
 </div>  
 <br/>
 <div align="center">
-### BEST PROJECTS:
   </div>
 
