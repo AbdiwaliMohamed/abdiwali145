@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" align="center" style="width: 100%;height:30%" />
+<img src="https://miro.medium.com/max/1360/1*hHIcCzlH3fchV-BFeXhJTw.png" align="center" style="width: 100%;" />
 </div>  
   
 
@@ -82,25 +82,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
