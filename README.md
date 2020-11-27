@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1360/1*hHIcCzlH3fchV-BFeXhJTw.png" align="center" style="width: 100%;" />
+<img src="https://miro.medium.com/max/2320/1*BBK6xwfMj1Xz__LMc9n6bw.png" align="center" style="width: 100%;" />
 </div>  
   
 
@@ -9,12 +9,12 @@
 <br/>  
 
 
-## My Skill Set  
+## MY SKILLS  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### FRONTEND
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -38,7 +38,7 @@
 
 
 
-### Backend  
+### BACKEND 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -82,19 +82,3 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
